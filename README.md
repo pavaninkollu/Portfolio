@@ -26,7 +26,7 @@ Built with clean UI/UX principles to make a strong first impression for HRs and 
 
 
 ## 📸 Screenshots
-![Portfolio Preview](assets/---<img width="1920" height="4707" alt="screencapture-file-D-Project-Side-B-portfolio-portfolio-html-2025-09-02-14_19_27" src="https://github.com/user-attachments/assets/55c45074-937d-4059-80f7-9f34aa89ea19" />)  
+<img width="1920" height="4707" alt="screencapture-file-D-Project-Side-B-portfolio-portfolio-html-2025-09-02-14_19_27" src="https://github.com/user-attachments/assets/55c45074-937d-4059-80f7-9f34aa89ea19" />
   
 
 ---
